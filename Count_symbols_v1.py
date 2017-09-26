@@ -26,3 +26,5 @@ if __name__ == '__main__':
 
 
     print("Total:", len(file) - file.count(' '))
+
+### My version ###
