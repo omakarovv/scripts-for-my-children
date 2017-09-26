@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 
-###Count symbols in the text
+### Count symbols in the text ###
 
 def getAllLettersRus():
     for item in range(1072, 1104):
@@ -20,4 +20,4 @@ if __name__ == '__main__':
             print("%s - %d" % (rus, alaphab))
         print(len(file) - file.count(' '))
 
-### Thank you Alexander!!!
+### Thank you Alexander!!! ###
