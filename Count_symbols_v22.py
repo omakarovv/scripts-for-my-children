@@ -19,3 +19,5 @@ if __name__ == '__main__':
             alaphab = file.count(rus)
             print("%s - %d" % (rus, alaphab))
         print(len(file) - file.count(' '))
+
+### Thank you Alexander!!!
