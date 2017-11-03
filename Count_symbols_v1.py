@@ -4,9 +4,11 @@ def getAllLettersRus():
     for item in range(1072, 1104):
         yield chr(item)
 
+
 def getAllSymbolsRus():
     for symb in range(33, 64):
         yield chr(symb)
+
 
 if __name__ == '__main__':
     for rus in getAllLettersRus():
